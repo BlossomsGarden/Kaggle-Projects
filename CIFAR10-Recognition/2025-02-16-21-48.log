@@ -1,0 +1,93 @@
+D:\Python\Projects\calligraphy-ratings\venv\Scripts\python.exe D:/offer/kaggle/cifar-10/code/main.py
+Epoch: 0 | Train Loss: 1.678 | Acc: 36.27%
+Test Loss: 1.346 | Test Acc: 49.39%
+
+Epoch: 1 | Train Loss: 1.277 | Acc: 53.93%
+Test Loss: 1.109 | Test Acc: 59.92%
+
+Epoch: 2 | Train Loss: 1.099 | Acc: 60.97%
+Test Loss: 1.018 | Test Acc: 63.26%
+
+Epoch: 3 | Train Loss: 0.989 | Acc: 65.31%
+Test Loss: 0.850 | Test Acc: 69.75%
+
+Epoch: 4 | Train Loss: 0.913 | Acc: 68.43%
+Test Loss: 0.877 | Test Acc: 69.28%
+
+Epoch: 5 | Train Loss: 0.848 | Acc: 70.88%
+Test Loss: 0.790 | Test Acc: 72.46%
+
+Epoch: 6 | Train Loss: 0.802 | Acc: 72.49%
+Test Loss: 0.723 | Test Acc: 74.63%
+
+Epoch: 7 | Train Loss: 0.759 | Acc: 74.26%
+Test Loss: 0.679 | Test Acc: 76.49%
+
+Epoch: 8 | Train Loss: 0.728 | Acc: 75.28%
+Test Loss: 0.628 | Test Acc: 78.16%
+
+Epoch: 9 | Train Loss: 0.697 | Acc: 76.44%
+Test Loss: 0.652 | Test Acc: 78.09%
+
+Epoch: 10 | Train Loss: 0.675 | Acc: 77.26%
+Test Loss: 0.590 | Test Acc: 79.84%
+
+Epoch: 11 | Train Loss: 0.668 | Acc: 77.62%
+Test Loss: 0.710 | Test Acc: 76.79%
+
+Epoch: 12 | Train Loss: 0.634 | Acc: 78.78%
+Test Loss: 0.553 | Test Acc: 80.90%
+
+Epoch: 13 | Train Loss: 0.619 | Acc: 79.10%
+Test Loss: 0.579 | Test Acc: 80.64%
+
+Epoch: 14 | Train Loss: 0.596 | Acc: 79.90%
+Test Loss: 0.528 | Test Acc: 81.67%
+
+Epoch: 15 | Train Loss: 0.511 | Acc: 82.72%
+Test Loss: 0.454 | Test Acc: 84.39%
+
+Epoch: 16 | Train Loss: 0.487 | Acc: 83.51%
+Test Loss: 0.450 | Test Acc: 84.36%
+
+Epoch: 17 | Train Loss: 0.477 | Acc: 83.67%
+Test Loss: 0.446 | Test Acc: 84.67%
+
+Epoch: 18 | Train Loss: 0.473 | Acc: 84.02%
+Test Loss: 0.444 | Test Acc: 84.88%
+
+Epoch: 19 | Train Loss: 0.463 | Acc: 84.32%
+Test Loss: 0.446 | Test Acc: 84.75%
+
+Epoch: 20 | Train Loss: 0.457 | Acc: 84.40%
+Test Loss: 0.439 | Test Acc: 84.91%
+
+Epoch: 21 | Train Loss: 0.452 | Acc: 84.46%
+Test Loss: 0.444 | Test Acc: 85.01%
+
+Epoch: 22 | Train Loss: 0.448 | Acc: 84.81%
+Test Loss: 0.438 | Test Acc: 84.96%
+
+Epoch: 23 | Train Loss: 0.444 | Acc: 84.81%
+Test Loss: 0.435 | Test Acc: 85.36%
+
+Epoch: 24 | Train Loss: 0.434 | Acc: 85.13%
+Test Loss: 0.430 | Test Acc: 85.39%
+
+Epoch: 25 | Train Loss: 0.434 | Acc: 85.25%
+Test Loss: 0.419 | Test Acc: 85.51%
+
+Epoch: 26 | Train Loss: 0.433 | Acc: 85.24%
+Test Loss: 0.421 | Test Acc: 85.59%
+
+Epoch: 27 | Train Loss: 0.431 | Acc: 85.27%
+Test Loss: 0.424 | Test Acc: 85.59%
+
+Epoch: 28 | Train Loss: 0.421 | Acc: 85.51%
+Test Loss: 0.418 | Test Acc: 85.66%
+
+Epoch: 29 | Train Loss: 0.418 | Acc: 85.62%
+Test Loss: 0.418 | Test Acc: 85.43%
+
+
+Process finished with exit code 0
